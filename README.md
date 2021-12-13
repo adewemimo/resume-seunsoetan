@@ -1,4 +1,4 @@
-# Project: My resume built with React.
+# Project: My resume built with React
 
 ## Run Project
 
@@ -26,4 +26,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-

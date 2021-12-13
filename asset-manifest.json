@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adewemimo/resume-seunsoetan/static/css/main.1bd88e14.chunk.css",
+    "main.js": "/adewemimo/resume-seunsoetan/static/js/main.ca147318.chunk.js",
+    "main.js.map": "/adewemimo/resume-seunsoetan/static/js/main.ca147318.chunk.js.map",
+    "runtime-main.js": "/adewemimo/resume-seunsoetan/static/js/runtime-main.924a5d92.js",
+    "runtime-main.js.map": "/adewemimo/resume-seunsoetan/static/js/runtime-main.924a5d92.js.map",
+    "static/js/2.2896374a.chunk.js": "/adewemimo/resume-seunsoetan/static/js/2.2896374a.chunk.js",
+    "static/js/2.2896374a.chunk.js.map": "/adewemimo/resume-seunsoetan/static/js/2.2896374a.chunk.js.map",
+    "static/js/3.d4f4da47.chunk.js": "/adewemimo/resume-seunsoetan/static/js/3.d4f4da47.chunk.js",
+    "static/js/3.d4f4da47.chunk.js.map": "/adewemimo/resume-seunsoetan/static/js/3.d4f4da47.chunk.js.map",
+    "index.html": "/adewemimo/resume-seunsoetan/index.html",
+    "static/css/main.1bd88e14.chunk.css.map": "/adewemimo/resume-seunsoetan/static/css/main.1bd88e14.chunk.css.map",
+    "static/js/2.2896374a.chunk.js.LICENSE.txt": "/adewemimo/resume-seunsoetan/static/js/2.2896374a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.924a5d92.js",
+    "static/js/2.2896374a.chunk.js",
+    "static/css/main.1bd88e14.chunk.css",
+    "static/js/main.ca147318.chunk.js"
+  ]
+}

@@ -1,5 +1,4 @@
 const Experience = function (props) {
-  console.log('experience----', props);
   const { company, website, jobTitle, location, date } = props;
   
 
